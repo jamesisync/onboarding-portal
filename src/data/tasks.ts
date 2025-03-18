@@ -317,8 +317,9 @@ export const onboardingTasks: OnboardingTask[] = [
       },
       {
         id: '6-8',
-        description: 'Register an account with HRtorque at https://hrtorque.psiberworks.com/ (confirm with Kogie)',
+        description: 'Register an account with HRtorque',
         completed: false,
+        url: 'https://hrtorque.psiberworks.com/'
       }
     ],
     contacts: [
